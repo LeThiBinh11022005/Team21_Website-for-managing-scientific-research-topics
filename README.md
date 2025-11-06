@@ -8,9 +8,9 @@
 
 <!-- Các logo minh họa -->
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_Technology.png" width="120" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Dai_nam_university_logo.png" width="120" style="margin: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Information_icon.svg" width="120" style="margin: 10px;"/>
+  <img src="https://github.com/tyanzuq2811/BTL_Quan_ly_doan_vien/blob/main/docs/logo/aiotlab_logo.png?raw=true" width="120" style="margin: 10px;"/>
+  <img src="https://github.com/tyanzuq2811/BTL_Quan_ly_doan_vien/blob/main/docs/logo/dnu_logo.png?raw=true" width="120" style="margin: 10px;"/>
+  <img src="https://github.com/tyanzuq2811/BTL_Quan_ly_doan_vien/blob/main/docs/logo/fitdnu_logo.png?raw=true" width="120" style="margin: 10px;"/>
 </p>
 
 <br/>
