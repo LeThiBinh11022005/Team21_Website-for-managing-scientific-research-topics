@@ -50,6 +50,54 @@ Hệ thống quản lý đề tài nghiên cứu khoa học trong môi trường
 ## 🚀 3. Hình ảnh các chức năng
 ### Trang đăng nhập
 <img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/39503b5b-28a9-4c22-8f5b-4db5c102775b" />
+### Dashboard thống kê
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/8f42c968-e92a-4c31-8b6e-937c79512b69" />
+### Quản lý tài khoản 
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/b9464cc8-b495-48b7-855a-025de7c7c425" />
+### Quản lý tài khoản
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/d4ee139f-a10a-4f91-bca0-824c8a1f31c6" />
+### Quản lý hội đồng
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/408d4b52-f5af-4ab9-8002-3b525c3d5a40" />
+### Theo dõi tiến độ 
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/07c3e6ff-8886-49ff-a1bf-dbcef1632960" />
+### Nghiệm thu đề tài 
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/5ac0f8c6-b447-4a2a-9bdb-75707e371232" />
+### Báo cáo trạng thái bảo vệ 
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/d71bba8d-2cc9-4684-8dad-15c589521cf7" />
+### Thông báo dành cho admin 
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/94ce8593-0a21-4f0e-bd23-00f629fbacca" />
+
+### Bảng điều kiện ( giảng viên )
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/8c4e5034-88ea-481c-b076-8172c1128117" />
+### Đề tài của tôi (giảng viên)
+<img width="1899" height="1024" alt="image" src="https://github.com/user-attachments/assets/5b717f1a-d658-43ab-aa9f-61beeb6b67fd" />
+### Sinh viên hướng dẫn ( giảng viên )
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/e6859362-f9b8-47ca-b2fd-728a9cd94493" />
+### Báo cáo tiến độ 
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/f8cff90c-f639-4c2c-9385-a533d011a820" />
+### Thông báo dành cho giảng viên 
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/03a6a268-56ad-4310-b34a-7fb6752bc0ec" />
+### Bảng điều khiển sinh viên 
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/9e7c9f6e-d67d-44f1-a80c-4c52d0cc687e" />
+### Lời mời hướng dẫn 
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/8047028c-a289-40ca-a68b-f8575a988cd4" />
+### Nộp tiến độ 
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/e24edadc-95ff-4f6c-a19c-28aefdf8d9b5" />
+### Đánh giá 
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/f753d537-4587-471a-99e3-83417d6e422b" />
+### Thông báo 
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/ecddee8a-7179-4710-a1ce-86476826f41a" />
+
+
+
+
+
+
+
+
+
+
+
 
 ## ⚙️ 4. Cài đặt
 
@@ -130,3 +178,4 @@ Sinh viên: Cập nhật tiến độ nghiên cứu, nộp tài liệu và nhậ
 Quản lý tài liệu và tiến độ: Cho phép giảng viên và sinh viên tải lên tài liệu nghiên cứu, cập nhật tiến độ và nhận xét, phản hồi.
 
 Thông báo và nhắc nhở: Gửi thông báo về các mốc thời gian quan trọng, nhắc nhở tiến độ nghiên cứu và các sự kiện liên quan.
+
