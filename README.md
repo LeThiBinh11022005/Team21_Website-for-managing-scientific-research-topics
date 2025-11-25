@@ -133,30 +133,19 @@ CREATE DATABASE IF NOT EXISTS quan_ly_doan_vien
 
 ### 4.4. Setup tham số kết nối
 Mở file config.php (hoặc .env) trong project, chỉnh thông tin DB:
-```bash
-
 <?php
+$host = 'localhost';
+$user = 'root';
+$pass = '210925';
+$db   = 'quan_ly_de_tai';
 
-function getDbConnection() {
-    $servername = "localhost";
-    $username = "root";
-    $password = "210925";
-    $dbname = "qlydetai";
-    $port = 3306;
+$conn = mysqli_connect($host, $user, $pass, $db);
 
-    // Tạo kết nối
-    $conn = mysqli_connect($servername, $username, $password, $dbname, $port);
-
-    // Kiểm tra kết nối
-    if (!$conn) {
-        die("Kết nối database thất bại: " . mysqli_connect_error());
-    }
-    // Thiết lập charset cho kết nối (quan trọng để hiển thị tiếng Việt đúng)
-    mysqli_set_charset($conn, "utf8");
-    return $conn;
+if (!$conn) {
+    die("Kết nối database thất bại: " . mysqli_connect_error());
 }
 
-?>
+mysqli_set_charset($conn, "utf8mb4");
 ```
 ### 4.5. Chạy hệ thống
 Mở XAMPP Control Panel → Start Apache và MySQL
@@ -178,4 +167,5 @@ Sinh viên: Cập nhật tiến độ nghiên cứu, nộp tài liệu và nhậ
 Quản lý tài liệu và tiến độ: Cho phép giảng viên và sinh viên tải lên tài liệu nghiên cứu, cập nhật tiến độ và nhận xét, phản hồi.
 
 Thông báo và nhắc nhở: Gửi thông báo về các mốc thời gian quan trọng, nhắc nhở tiến độ nghiên cứu và các sự kiện liên quan.
+
 
