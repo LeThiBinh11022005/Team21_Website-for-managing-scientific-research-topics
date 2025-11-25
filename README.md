@@ -116,7 +116,7 @@ Clone project về thư mục `htdocs` của XAMPP (ví dụ ổ C):
 
 ```bash
 cd C:\xampp\htdocs
-https://github.com/
+https://github.com/LeThiBinh11022005/Team21_Website-for-managing-scientific-research-topics
 Truy cập project qua đường dẫn:
 👉 http://localhost/authentication_login.
 ```
@@ -126,7 +126,7 @@ Mở XAMPP Control Panel, Start Apache và MySQL
 Truy cập MySQL WorkBench
 Tạo database:
 ```bash
-CREATE DATABASE IF NOT EXISTS quan_ly_doan_vien
+CREATE DATABASE IF NOT EXISTS quan_ly_de_tai
    CHARACTER SET utf8mb4
    COLLATE utf8mb4_unicode_ci;
 ```
@@ -167,5 +167,6 @@ Sinh viên: Cập nhật tiến độ nghiên cứu, nộp tài liệu và nhậ
 Quản lý tài liệu và tiến độ: Cho phép giảng viên và sinh viên tải lên tài liệu nghiên cứu, cập nhật tiến độ và nhận xét, phản hồi.
 
 Thông báo và nhắc nhở: Gửi thông báo về các mốc thời gian quan trọng, nhắc nhở tiến độ nghiên cứu và các sự kiện liên quan.
+
 
 
